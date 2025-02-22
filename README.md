@@ -4,3 +4,6 @@
 -Implemented interactive filters by region, time period, and product category, enabling targeted promotions and boosting sales. <br>
 -Optimized data modeling and processing, reducing report load times by 30%, ensuring faster insights for business decisions. <br>
 -Enabled data-driven decision-making, allowing category managers to identify slow-moving items and adjust pricing strategies, leading to increase in inventory turnover. <br>
+
+
+![image](https://github.com/user-attachments/assets/af9580dc-ddc1-4e6b-a4ac-3e86866dcba0)
